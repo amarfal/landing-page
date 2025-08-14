@@ -198,6 +198,15 @@ blockquote footer {
     opacity: .95;
 }
 
+.footer {
+    background: var(--dark);
+    color: var(--text-light);
+    text-align: center;
+    padding: 24px 0;
+    font-size: 14px;
+}
+
+
 
 
 
