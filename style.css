@@ -166,8 +166,8 @@ img { max-width: 100%; display: block; }
 
 .card--one   .card_box { border-color: #225968; }
 .card--two   .card_box { border-color: #71390b; }
-.card--three .card_box { border-color: #1b2024; }
-.card--four  .card_box { border-color: #457695; }
+.card--three .card_box { border-color: #457695; }
+.card--four  .card_box { border-color: #1b2024; }
 
 .card p {
     font-size: 14px;
